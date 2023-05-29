@@ -81,7 +81,7 @@ Agradecemos a nuestros patrocinadores:
 
 <a href="https://www.redmexicanadebioinformatica.org/"><img src="http://www.nnb.unam.mx/TIB2020/wp-content/uploads/sites/2/2020/03/RMB_Logo-horizontal.png" width="400px" align="center"/></a>
 
-<a href="(https://www.nnb.unam.mx/"><img src="https://www.nnb.unam.mx/wp-content/uploads/2021/04/logo-principal.png" width="400px" align="center"/></a>
+<a href="https://www.nnb.unam.mx/"><img src="https://www.nnb.unam.mx/wp-content/uploads/2021/04/logo-principal.png" width="400px" align="center"/></a>
 
-<a href="(https://bioconductor.org/"><img src="https://bioconductor.org/images/logo_bioconductor.gif" width="400px" align="center"/></a>
+<a href="https://bioconductor.org/"><img src="https://bioconductor.org/images/logo_bioconductor.gif" width="400px" align="center"/></a>
 
