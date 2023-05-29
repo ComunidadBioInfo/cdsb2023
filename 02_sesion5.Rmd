@@ -1,0 +1,14 @@
+#  Anotación de tipos celulares
+
+Erick Cuevas
+
+08 de agosto de 2023
+
+## Diapositivas
+
+[
+```{r,echo=FALSE}
+knitr::include_url("https://comunidadbioinfo.github.io/cdsb2023/brett_talk.pdf", height = "380px")
+```
+](https://comunidadbioinfo.github.io/cdsb2023/brett_talk.pdf)
+
