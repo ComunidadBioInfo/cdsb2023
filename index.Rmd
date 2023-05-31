@@ -52,6 +52,7 @@ A la par, aprenderás cuáles son los pasos cruciales para desarrollar un paquet
 - M.C. José Antonio Ovando
 - M.C. Andrés Arredondo Cruz
 - M.C. Diego Ramírez
+- M.C. Luis Alberto Meza
 
 ## Temario 
 
