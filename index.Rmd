@@ -1,6 +1,6 @@
 ---
 title: "Workshop CDSB 2023: Creando paquetes de R/Bioconductor para análisis transcriptómicos de célula única."
-author: "Dra. Joselyn Chávez, Dr. Leonardo Collado-Torres, Dra. Yalbi Balderas-Martínez, M.C. Erick Cuevas-Fernández, Dra. Mirna Vázquez Rosas-Landa, Dra. Alejandra Medina-Rivera,"
+author: "Dra. Joselyn Cristina Chávez-Fuentes, Dr. Leonardo Collado-Torres, Dra. Yalbi Balderas-Martínez, M.C. Erick Cuevas-Fernández, Dra. Mirna Vázquez Rosas-Landa, Dra. Alejandra Medina-Rivera,"
 site: bookdown::bookdown_site
 documentclass: book
 url: 'https://comunidadbioinfo.github.io/cdsb2023/'
